@@ -1,4 +1,8 @@
 Name:{Michał}
 University: PJATK
+<<<<<<< HEAD
 Student id: s38272
 hello from branch
+=======
+Student id: {s38272}
+>>>>>>> 893be692fd3c7da8ff58a8b938440be952416ccd
